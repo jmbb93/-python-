@@ -24,7 +24,7 @@
 
 ## 2.1 python解释器
 - ipython是python自带的
-- annanconda里的jupyter使用起来更友好，我一直选择这个
+- anaconda里的jupyter使用起来更友好，我一直选择这个
 
 ## 2.2 常用命令
 - tab补全，与%run搭配使用，会节省大量键盘输入

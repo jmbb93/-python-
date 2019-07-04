@@ -1,8 +1,5 @@
-
-# 1.numpy ndarray
-
-## numpy的核心特征之一是N-维数组对象——ndarray，是Python中一个快速、灵活的大型数据集容器，可以用类似标量的操作语法做数学计算。
-
+## numpy ndarray
+numpy的核心特征之一是N-维数组对象——ndarray，是Python中一个快速、灵活的大型数据集容器，可以用类似标量的操作语法做数学计算。
 - 标准导入，import numpy as np
 - 生成ndarray，函数有array asarray arange ones ones_like zeros zeros_like empty empty_like full full_like eye identity
 - ndarray的数据类型，dtype

@@ -1,5 +1,5 @@
 
-# 1.numoy ndarray
+# 1.numpy ndarray
 
 ## numpy的核心特征之一是N-维数组对象——ndarray，是Python中一个快速、灵活的大型数据集容器，可以用类似标量的操作语法做数学计算。
 

@@ -8,7 +8,7 @@ pandas的重要特性，允许你在一个轴向上拥有多个（两个或两�
 - 在重塑数据和数组透视表等分组操作中扮演了重要角色，unstack()  stack()
 - MultiIndex可使用其自身的构造函数创建并复用
 - 重排序和层级排序，swaplevel接收两个层级序号或层级名称，返回一个进行了层级变换的新对象
-- sort_index只能在单一层级上排序，sort_level(level=0)
+- sort_index只能在单一层级上排序，sort_index(level=0)
 - sum(level='key2')按层级进行汇总
 - 使用DF的列进行索引，set_index()  reset_index()
 

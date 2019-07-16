@@ -18,7 +18,7 @@
 
 ## 2. 数据聚合
 聚合是指所有根据数组产生标量值的数据转换过程。
-- quantile(),arrregate(/agg()
+- quantile(),arrregate(),agg()
 - 逐列及多函数应用
 - 返回不含行索引的聚合数据，as_index=False
 
